@@ -17,6 +17,7 @@ settings:
 monitors:
   - id: connecterra-enterprise-app
     name: app.connecterra.ai
+    description: ''
     url: 'https://app.connecterra.ai'
     method: GET
     expectStatus: 200
